@@ -92,8 +92,8 @@ where:
 ## Histogram
 
 
+<img width="877" height="579" alt="image" src="https://github.com/user-attachments/assets/0ef1e934-45bc-45a3-bf8b-e2832fe93c45" />
 
-<img width="879" height="577" alt="image" src="https://github.com/user-attachments/assets/f5d060f7-0062-43ed-8557-3d5e72bad847" />
 
 
 
